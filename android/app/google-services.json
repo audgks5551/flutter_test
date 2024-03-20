@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951026489794",
+    "project_id": "farmfarm-cf42d",
+    "storage_bucket": "farmfarm-cf42d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951026489794:android:7839d6526a4840a9411e5b",
+        "android_client_info": {
+          "package_name": "com.example.farmfarm_device_server_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGc9G7uXpim76mmACOcLtkMdAwlaMCXKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
